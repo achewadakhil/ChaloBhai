@@ -1,8 +1,11 @@
 D:\HCL Java\Projects\ChaloBhai\server\src\main\java\com\chalobhai\server\exception\GlobalExceptionHandler.java
+D:\HCL Java\Projects\ChaloBhai\server\src\main\java\com\chalobhai\server\service\StudentProfileService.java
 D:\HCL Java\Projects\ChaloBhai\server\src\main\java\com\chalobhai\server\config\CorsConfig.java
 D:\HCL Java\Projects\ChaloBhai\server\src\main\java\com\chalobhai\server\controller\HealthController.java
 D:\HCL Java\Projects\ChaloBhai\server\src\main\java\com\chalobhai\server\ServerApplication.java
 D:\HCL Java\Projects\ChaloBhai\server\src\main\java\com\chalobhai\server\dto\auth\UserSummary.java
+D:\HCL Java\Projects\ChaloBhai\server\src\main\java\com\chalobhai\server\dto\profile\StudentProfileRequest.java
+D:\HCL Java\Projects\ChaloBhai\server\src\main\java\com\chalobhai\server\repository\StudentProfileRepository.java
 D:\HCL Java\Projects\ChaloBhai\server\src\main\java\com\chalobhai\server\dto\auth\AuthResponse.java
 D:\HCL Java\Projects\ChaloBhai\server\src\main\java\com\chalobhai\server\repository\UserRepository.java
 D:\HCL Java\Projects\ChaloBhai\server\src\main\java\com\chalobhai\server\security\JwtAuthenticationFilter.java
@@ -12,4 +15,7 @@ D:\HCL Java\Projects\ChaloBhai\server\src\main\java\com\chalobhai\server\dto\aut
 D:\HCL Java\Projects\ChaloBhai\server\src\main\java\com\chalobhai\server\security\JwtService.java
 D:\HCL Java\Projects\ChaloBhai\server\src\main\java\com\chalobhai\server\service\AuthService.java
 D:\HCL Java\Projects\ChaloBhai\server\src\main\java\com\chalobhai\server\entity\User.java
+D:\HCL Java\Projects\ChaloBhai\server\src\main\java\com\chalobhai\server\entity\StudentProfile.java
+D:\HCL Java\Projects\ChaloBhai\server\src\main\java\com\chalobhai\server\controller\StudentProfileController.java
+D:\HCL Java\Projects\ChaloBhai\server\src\main\java\com\chalobhai\server\dto\profile\StudentProfileResponse.java
 D:\HCL Java\Projects\ChaloBhai\server\src\main\java\com\chalobhai\server\dto\auth\RegisterRequest.java
