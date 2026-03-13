@@ -6,6 +6,7 @@ import { ThemeProvider } from './context/ThemeContext'
 import DashboardPage from './pages/DashboardPage'
 import LandingPage from './pages/LandingPage'
 import LoginPage from './pages/LoginPage'
+import ProfilePage from './pages/ProfilePage'
 import SignupPage from './pages/SignupPage'
 
 function App() {
@@ -21,6 +22,14 @@ function App() {
             element={(
               <ProtectedRoute>
                 <DashboardPage />
+              </ProtectedRoute>
+            )}
+          />
+          <Route
+            path="/profile"
+            element={(
+              <ProtectedRoute>
+                <ProfilePage />
               </ProtectedRoute>
             )}
           />
